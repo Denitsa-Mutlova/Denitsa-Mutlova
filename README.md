@@ -14,7 +14,7 @@
 
 ## Lo que busco
 
-Prácticas en desarrollo de software (Java) o en análisis de datos, en la zona de Madrid.
+Prácticas en desarrollo de software (Java) o en análisis de datos, en la zona de Madrid o Toledo.
 
 ## Tecnologías
 
