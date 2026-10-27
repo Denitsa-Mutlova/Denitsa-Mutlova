@@ -49,4 +49,6 @@ Prácticas en desarrollo de software (Java) o en análisis de datos, en Madrid o
 ## Proyectos
 
 | Proyecto | Qué es | Tecnologías |
-|---|---
+|---|---|---|
+| **[gestor-tareas](https://github.com/Denitsa-Mutlova/gestor-tareas)** | Aplicación full stack para gestionar tareas, con API REST, tests y CI. | Spring Boot, React, PostgreSQL, Docker, GitHub Actions |
+| **[analisis-agua-tanzania](https://github.com/Denitsa-Mutlova/analisis-agua-tanzania)** | Predicción del estado de bombas de agua en Tanzania, con [mapa interactivo](https://denitsa-mutlova.github.io/analisis-agua-tanzania/mapa_bombas.html). | Python, pandas, scikit-learn, XGBoost, SQL, Power BI |
