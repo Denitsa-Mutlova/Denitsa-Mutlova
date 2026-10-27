@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Denitsa
 
-<!--
-**Denitsa-Mutlova/Denitsa-Mutlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas.
+Java, Spring Boot y React, con formación en análisis de datos con Python (bootcamp NTT DATA).
 
-Here are some ideas to get you started:
+## Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[gestor-tareas](https://github.com/Denitsa-Mutlova/gestor-tareas)**: aplicación full stack con API REST en Spring Boot, frontend en React, PostgreSQL, Docker y CI con GitHub Actions.
+- **[analisis-agua-tanzania](https://github.com/Denitsa-Mutlova/analisis-agua-tanzania)**: predicción del estado de bombas de agua con pandas, scikit-learn y XGBoost, con modelo SQL y cuadros de mando en Power BI.
+
+## Tecnologías
+
+Java · Spring Boot · React · PostgreSQL · Docker · GitHub Actions · Python · pandas · scikit-learn · SQL · Inglés C1
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/denitsa-mutlova-6a43a8143/) · dmutlova@gmail.com
