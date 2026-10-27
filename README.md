@@ -1,17 +1,43 @@
-# Hola, soy Denitsa
+<h1 align="center">Hola, soy Denitsa</h1>
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas.
-Java, Spring Boot y React, con formación en análisis de datos con Python (bootcamp NTT DATA).
+<p align="center">
+  Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas.<br>
+  Java, Spring Boot y React, con formación en análisis de datos con Python.
+</p>
 
-## Proyectos
+<p align="center">
+  <a href="https://www.linkedin.com/in/denitsa-mutlova-6a43a8143/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dmutlova@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- **[gestor-tareas](https://github.com/Denitsa-Mutlova/gestor-tareas)**: aplicación full stack con API REST en Spring Boot, frontend en React, PostgreSQL, Docker y CI con GitHub Actions.
-- **[analisis-agua-tanzania](https://github.com/Denitsa-Mutlova/analisis-agua-tanzania)**: predicción del estado de bombas de agua con pandas, scikit-learn y XGBoost, con modelo SQL y cuadros de mando en Power BI.
+---
+
+## Lo que busco
+
+Prácticas en desarrollo de software (Java) o en análisis de datos, en la zona de Madrid.
 
 ## Tecnologías
 
-Java · Spring Boot · React · PostgreSQL · Docker · GitHub Actions · Python · pandas · scikit-learn · SQL · Inglés C1
+**Desarrollo**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-## Contacto
+**Datos**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-[LinkedIn](https://www.linkedin.com/in/denitsa-mutlova-6a43a8143/) · dmutlova@gmail.com
+**Idiomas:** búlgaro (nativo) · español · inglés · árabe
+
+## Proyectos
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| **[gestor-tareas](https://github.com/Denitsa-Mutlova/gestor-tareas)** | Aplicación full stack para gestionar tareas, con API REST, tests y CI. | Spring Boot, React, PostgreSQL, Docker, GitHub Actions |
+| **[analisis-agua-tanzania](https://github.com/Denitsa-Mutlova/analisis-agua-tanzania)** | Predicción del estado de bombas de agua en Tanzania, con [mapa interactivo](https://denitsa-mutlova.github.io/analisis-agua-tanzania/mapa_bombas.html). | Python, pandas, scikit-learn, XGBoost, SQL, Power BI |
