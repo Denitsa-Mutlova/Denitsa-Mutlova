@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Denitsa</h1>
 
 <p align="center">
-  Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas.<br>
+  Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de prácticas o primer empleo como junior.<br>
   Java, Spring Boot y React, con formación en análisis de datos con Python.
 </p>
 
@@ -14,7 +14,7 @@
 
 ## Lo que busco
 
-Prácticas en desarrollo de software (Java) o en análisis de datos, en Madrid o Toledo.
+Prácticas o puesto junior en desarrollo de software (Java) o en análisis de datos, en Madrid o Toledo.
 
 ## Tecnologías
 
